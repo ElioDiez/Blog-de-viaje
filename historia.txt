@@ -4,4 +4,4 @@ Historia de
 
 Elío, nací en Pontevedra, tengo 40 años!
 
-La otra se borró por mal uso del rm, pero se arregló después.
+La otra se borró por mal uso del rm, pero se arregló después y ya funciona.
