@@ -2,6 +2,6 @@ Esta es la segunda
 
 Historia de
 
-Elío, nací en Pontevedra, tengo 40 años!
+Elío 
 
-La otra se borró por mal uso del rm, pero se arregló después y ya funciona.
+Hoy avanzaremos en el curso de Git y Git Hub
